@@ -5,5 +5,5 @@ Advanced Text Analytics Project
 
 ## Models Score
 
-- Base model (platinum, gold, silver, bronze) -> F1 = 78.36
-- Custom tokenizer (platinum, gold, silver, bronze) -> F1 = 77.46
+- Base model -> F1 = 77.77
+- Custom tokenizer -> F1 = 78.14
