@@ -5,5 +5,5 @@ Advanced Text Analytics Project
 
 ## Models Score
 
-- Base model -> F1 = 77.77
-- Custom tokenizer -> F1 = 78.14
+- Base model -> F1 = 78.23
+- Custom tokenizer -> F1 = 78.14 (same results with trf)
