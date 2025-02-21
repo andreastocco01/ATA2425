@@ -5,5 +5,7 @@ Advanced Text Analytics Project
 
 ## Models Score
 
-- Base model -> F1 = 78.02
-- Tokenizer model -> F1 = 78.19
+- Base model -> F = 78.02
+- Tokenizer model -> F = 78.24 (same as accuracy)
+- No expand model -> F = 78.36
+- Tokenizer no expand model -> 77.91
