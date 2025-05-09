@@ -18,3 +18,10 @@ Use of alignment = "strict" in every model
 | Base | 100.00 | 83.25 | 74.19 | 78.46 |
 | Tok | 100.00 | 75.75 | 74.66 | 75.20 |
 | No Tags | 100.00 | 77.58 | 73.64 | 75.56
+
+## Running Predictions
+
+To generate predictions on the test data using the trained model, run the script `submission.py`.
+For simplicity, the trained model is already included in the repository.
+
+**Important**: Before running the script, make sure to update the path to your test data inside `submission.py`.
