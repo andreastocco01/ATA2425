@@ -18,5 +18,6 @@ ipython_config.py
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 gutbrainie2025/
 *.spacy
-out*/
-config.cfg
+out/tok
+out/base
+out/no_tags/model-last
