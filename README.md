@@ -19,6 +19,10 @@ Use of alignment = "strict" in every model
 | Tok | 100.00 | 75.75 | 74.66 | 75.20 |
 | No Tags | 100.00 | 77.58 | 73.64 | 75.56
 
+## Create Models
+
+Run the `gutbrainie_ner.ipynb` to generate all the models examined in this task.
+
 ## Running Predictions
 
 To generate predictions on the test data using the trained model, run the script `submission.py`.
